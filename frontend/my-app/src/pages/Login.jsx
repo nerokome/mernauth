@@ -36,7 +36,7 @@ const Login = () => {
   return (
     <div>
       <div className="max-w-md mx-auto mt-10 bg-white p-8 rounded-lg shadow-lg">
-        <h2 className="text-2xl font-bold mb-6 text-center text-blue-600">Create an Account</h2>
+        <h2 className="text-2xl font-bold mb-6 text-center text-blue-600">Login to your Account</h2>
 
         {error && <p className="text-red-500 text-sm mb-4 text-center">{error}</p>}
 
